@@ -1,0 +1,63 @@
+/* css-style */
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins:wght@500&family=Raleway:wght@100&family=Ubuntu:ital@1&display=swap');
+
+
+*{
+
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+/* -------------------------------header-section-start------------------------ */
+#header-section{
+    width:100%;
+    height:94px; 
+    background-color:#562EFF;
+    
+}
+#nav-section{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 20px;
+
+}
+.nav-logo{
+    display: flex;
+
+}
+.nav-logo h3{
+    color: white;
+    font-size: 24px;
+    padding-left: 20px;
+    margin-top: 10px;
+
+} 
+.nav-logo img{
+    width: 40.42px;
+    height: 51px;
+
+}
+.nav-item{
+    position: relative;
+    left: 200px;
+        
+    
+}
+.nav-item a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    
+    
+}
+
+
+/* -x----x-----x---x----x-----x---header-section-end---x-----x-----x----x---- */
+
+
+/* -------------------------------main-section-start------------------------ */
+
+/* -x----x-----x---x----x-----x---main-section-end---x-----x-----x----x---- */
